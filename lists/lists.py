@@ -23,4 +23,3 @@ motorcycles =['honda','yamaha', 'suzuki']
 poped_motorcycle=motorcycles.pop()
 print(motorcycles)
 print(poped_motorcycle)
-
